@@ -12,5 +12,5 @@ git push <remote> <branch><br>
 git branch <branch name><br>
 git branch<br>
 git branch -d <branch name><br>
-- **Roll back a repository to a specific commit<br>
+- **Roll back a repository to a specific commit**<br>
 git revert <commit hash><br>
